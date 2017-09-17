@@ -1,2 +1,9 @@
-# react-redux-webpack-starter
-React redux webpack starter project
+# React hoc basic Loading
+
+### step run project
+
+- clone this project
+- change to directory
+- $ npm install
+- $ npm run
+- enjoy !

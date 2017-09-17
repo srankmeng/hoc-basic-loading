@@ -2,8 +2,8 @@
 
 ### step run project
 
-- clone this project
+- run `git clone https://github.com/srankmeng/hoc-basic-loading.git`
 - change to directory
-- $ npm install
-- $ npm run
-- enjoy !
+- run `npm install`
+- run `npm run`
+- open `localhost:3000`
